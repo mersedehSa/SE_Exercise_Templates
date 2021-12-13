@@ -17,7 +17,6 @@ class TestCalculator {
 	@Test
 	public void Should_add_two_numbers_and_return_result() {
 		assertEquals(6, calculator.add(3, 3));
-		System.out.println(assert);
 	}
 
 	@ParameterizedTest
