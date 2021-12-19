@@ -54,5 +54,4 @@ class TestCalendar {
 			assertFalse(calendar.isLeapYear());
 		}
 	}
-	// Create a new method for boundary testing
 }
